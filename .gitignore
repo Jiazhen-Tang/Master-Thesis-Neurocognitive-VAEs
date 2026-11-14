@@ -1,0 +1,9 @@
+_archive/
+__pycache__/
+*.pyc
+.DS_Store
+*.npy
+*.npz
+*.pkl
+*.pth
+*.fif
